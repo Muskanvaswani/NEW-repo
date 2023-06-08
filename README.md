@@ -1,2 +1,2 @@
-# NEW-repo
-learning to make a repo
+OS project 
+This is an academic activity 
